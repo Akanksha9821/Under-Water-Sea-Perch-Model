@@ -60,8 +60,7 @@ Each motor is controlled via **pulse width modulation (PWM)**, allowing precise 
 
 ---
 
-## Contributions
-Contributions and improvements are welcome! Feel free to submit a pull request or report issues.
+
 
 ### Author
 👤 **Akanksha9821**  
